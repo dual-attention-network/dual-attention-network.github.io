@@ -1,0 +1,6 @@
+@inproceedings{xiao2019reasoning,
+    author={Xiao, Tete and Fan, Quanfu and Gutfreund, Dan and Monfort, Mathew and Oliva, Aude and Zhou, Bolei},
+    title={Reasoning About Human-Object Interactions Through Dual Attention Networks},
+    booktitle={ICCV},
+    year={2019},
+}
